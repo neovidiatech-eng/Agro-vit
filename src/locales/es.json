@@ -1,0 +1,602 @@
+{
+  "navbar": {
+    "home": "Inicio",
+    "about": "Sobre Nosotros",
+    "products": "Productos",
+    "gallery": "Galería",
+    "contact": "Contáctenos",
+    "fruits": "Frutas Congeladas",
+    "vegetables": "Verduras Congeladas"
+  },
+  "contact": {
+    "banner": {
+      "title": "Contáctenos",
+      "breadcrumb": "Contáctenos"
+    },
+    "about": {
+      "title": "Sobre Agro Vit Food",
+      "description": "Agro Vit Food es una empresa egipcia líder especializada en la exportación de frutas y verduras congeladas mediante tecnología IQF. Nuestros productos están disponibles bajo nuestra marca, la cual ha ganado una excelente reputación en los mercados internacionales."
+    },
+    "info": {
+      "title": "Información de Contacto",
+      "sales": "Departamento de Ventas",
+      "email": "Correo electrónico",
+      "hours": "Horario de Trabajo",
+      "workingHours": "Sábado - Jueves: 9 AM - 5 PM"
+    },
+    "address": {
+      "title": "Dirección",
+      "company": "Agro Vit Food Export",
+      "location": "Zona Industrial, Ismailia, Egipto"
+    },
+    "form": {
+      "subtitle": "Póngase en contacto",
+      "title": "No dude en contactarnos en cualquier momento",
+      "description": "Por favor, complete el siguiente formulario y nos pondremos en contacto con usted lo antes posible.",
+      "name": "Nombre Completo",
+      "email": "Correo electrónico",
+      "phone": "Número de Teléfono",
+      "subject": "Asunto",
+      "message": "Mensaje",
+      "placeholders": {
+        "name": "Ingrese su nombre",
+        "email": "Ingrese su correo electrónico",
+        "phone": "Ingrese su número de teléfono",
+        "subject": "Asunto del mensaje",
+        "message": "Escriba su mensaje..."
+      },
+      "submit": "Enviar Mensaje"
+    }
+  },
+  "gallery": {
+    "pageTitle": "Galería de Fotos",
+    "breadcrumb": "Galería",
+    "categories": {
+      "production": "Producción",
+      "harvest": "Cosecha",
+      "packaging": "Embalaje",
+      "facilities": "Instalaciones"
+    },
+    "images": {
+      "strawberry_sorting": "Proceso de Clasificación de Fresas",
+      "our_farms": "Nuestras Granjas",
+      "b2b_packaging": "Embalaje B2B",
+      "auto_cutting": "Corte Automático de Fresas",
+      "cold_storage": "Almacenamiento en Frío (-18°C)",
+      "iqf_tunnel": "Túnel de Congelación IQF",
+      "quality_check": "Control de Calidad",
+      "harvest_day": "Día de Cosecha Fresca",
+      "farm_landscape": "Nuestras Tierras Fértiles"
+    }
+  },
+  "about": {
+    "pageTitle": "Sobre Nosotros",
+    "breadcrumb": "Sobre Nosotros",
+    "experience": "Agro Vit Food Export - 8 Años de Excelencia",
+    "mainTitle": "Amplia gama de frutas y verduras congeladas mediante tecnología IQF",
+    "description1": "Agro Vit Food es una empresa egipcia especializada en la exportación de diversos tipos de frutas y verduras congeladas utilizando la tecnología IQF (Individually Quick Frozen), garantizando los más altos estándares de calidad y opciones de embalaje versátiles para satisfacer las diversas necesidades del mercado.",
+    "description2": "Con más de 8 años de experiencia en los mercados egipcios e internacionales, nos hemos comprometido desde nuestros inicios con los estándares internacionales de seguridad y calidad alimentaria, lo que nos permite construir asociaciones comerciales sólidas y confiables con clientes en todo el mundo.",
+    "description3": "Gracias al clima ideal de Egipto y al suelo fértil irrigado por el río Nilo, nos enorgullecemos de ofrecer productos con un sabor natural único y una calidad excepcional sin igual.",
+    "stats": {
+      "shipments": "+500 Envíos de Exportación",
+      "service": "Soporte 24/7",
+      "premium": "Productos IQF Premium",
+      "quality": "Certificación Internacional"
+    },
+    "brand": {
+      "subtitle": "Nuestra Marca",
+      "title": "De los Mejores Productos Egipcios",
+      "p1": "Ofrecemos a nuestros clientes una amplia gama de productos congelados bajo nuestra marca privada 'Agro Vit Food', que se ha ganado la confianza de los importadores en los mercados internacionales gracias a su superior calidad y fiabilidad.",
+      "p2": "También ofrecemos servicios de embalaje de Marca Privada con diversos tamaños de contenedores adecuados para todos los sectores mayoristas, minoristas e industriales (desde bolsas de 400g hasta cartones de 10kg).",
+      "list": [
+        "Embalaje flexible para adaptarse a todas las solicitudes comerciales B2B",
+        "Cosecha al inicio de la temporada para obtener el mejor precio y calidad",
+        "Corte mecánico automatizado para higiene y consistencia de tamaño",
+        "Suministro sostenible durante todo el año"
+      ],
+      "iqf_badge": {
+        "title": "IQF",
+        "subtitle": "Tecnología Premium"
+      }
+    },
+    "cards": {
+      "mission": {
+        "title": "Misión",
+        "desc": "Proporcionar la más alta calidad de frutas y verduras congeladas utilizando las últimas tecnologías de congelación a precios competitivos para nuestros clientes en diversos mercados globales."
+      },
+      "vision": {
+        "title": "Visión",
+        "desc": "Ser un líder del mercado en la exportación de frutas y verduras congeladas a nivel local y global a través del desarrollo continuo y la inversión en personal e instalaciones."
+      },
+      "markets": {
+        "title": "Nuestros Mercados",
+        "desc": "Exportamos nuestros productos a muchos países de todo el mundo, incluidos Rusia, Polonia y EE. UU., con aspiraciones constantes de expandirnos a los mercados europeo y asiático."
+      },
+      "goal": {
+        "title": "Nuestro Objetivo",
+        "desc": "Expansión continua de nuestra gama de productos añadiendo variedades únicas que cumplan con los requisitos de nuestros clientes, garantizando el desarrollo constante de la calidad."
+      }
+    },
+    "production": {
+      "subtitle": "Etapas de Producción",
+      "title": "Cómo Preservamos el Sabor Natural",
+      "steps": {
+        "farming": {
+          "title": "Agricultura",
+          "desc": "Seleccionamos las mejores variedades y semillas, monitoreando los cultivos desde el inicio hasta la cosecha en su punto óptimo de madurez, enfocándonos en fertilizantes naturales."
+        },
+        "sorting": {
+          "title": "Selección y Clasificación",
+          "desc": "Supervisamos cuidadosamente el proceso de recolección para asegurar que se elijan las frutas más maduras, seguido del lavado y clasificación para eliminar impurezas."
+        },
+        "cooling": {
+          "title": "Pre-enfriamiento",
+          "desc": "Los productos se enfrían en preparación para el proceso de congelación rápida, alcanzando los -18°C mientras se elimina el exceso de humedad para garantizar la calidad."
+        },
+        "iqf": {
+          "title": "Congelación Rápida IQF",
+          "desc": "Utilizamos las últimas tecnologías IQF donde los productos se congelan rápidamente hasta el núcleo a -40°C, preservando sabor, textura y nutrición."
+        },
+        "packaging": {
+          "title": "Embalaje y Almacenamiento",
+          "desc": "Ofrecemos embalaje al por mayor y al por menor en varios tamaños, con almacenamiento seguro en almacenes con temperatura controlada."
+        },
+        "shipping": {
+          "title": "Envío y Entrega",
+          "desc": "Entregamos nuestros productos en cualquier parte del mundo a tiempo, manteniendo la cadena de frío durante todo el trayecto del envío."
+        }
+      }
+    },
+    "cta": {
+      "title": "¿Le gustaría cooperar con nosotros?",
+      "desc": "Contáctenos hoy para conocer más sobre nuestros productos y servicios",
+      "btn": "Contáctenos"
+    }
+  },
+  "fruits": {
+    "banner_title": "Frutas Congeladas",
+    "banner_breadcrumb": "Frutas Congeladas",
+    "subtitle": "Selección Premium de Frutas Congeladas",
+    "main_title": "Frutas Egipcias Congeladas con Tecnología IQF",
+    "description": "Nos hemos convertido en una parte esencial de los mercados globales a través de nuestra distinguida selección de frutas congeladas de alta calidad, ofrecidas bajo nuestra marca privada así como embalaje personalizado a petición del cliente."
+  },
+  "vegetables": {
+    "banner_title": "Verduras Congeladas",
+    "banner_breadcrumb": "Verduras Congeladas",
+    "subtitle": "Amplia Selección de Verduras Congeladas",
+    "main_title": "Verduras Congeladas Egipcias con la Más Alta Calidad",
+    "description": "Ofrecemos una gama completa de verduras egipcias congeladas mediante tecnología IQF, con diversas opciones de embalaje para adaptarse a todas las necesidades del cliente."
+  },
+  "product_details": {
+    "not_found": "Producto no encontrado",
+    "back_to_home": "Volver al Inicio",
+    "back_to_list": "Volver a la Lista de Productos",
+    "fruits_label": "Frutas Congeladas (IQF)",
+    "veggies_label": "Verduras Congeladas (IQF)",
+    "packaging_title": "Opciones de Embalaje (B2B)",
+    "sizes_title": "Tamaños y Corte",
+    "season_title": "Temporada de Disponibilidad",
+    "benefits_title": "Beneficios y Calidad",
+    "request_quote": "Solicitar Cotización al por Mayor",
+    "private_label_note": "* Pesos al por mayor y Marca Privada disponibles a petición del importador."
+  },
+  "products": {
+    "fruits_items": {
+      "strawberry": {
+        "name": "Fresa Congelada",
+        "description": "Fresas frescas egipcias congeladas con tecnología IQF. Ideales para jugos, postres y mermeladas.",
+        "packaging": [
+          "Bolsas de 400g",
+          "Bolsas de 2.5kg",
+          "Cartones de 10kg (B2B)"
+        ],
+        "sizes": ["15-25 mm", "25-35 mm", "Sin calibrar"],
+        "season": "Diciembre a Abril",
+        "benefits": "Ricas en vitamina C y antioxidantes."
+      },
+      "mango": {
+        "name": "Mango Congelado",
+        "description": "Trozos de mango egipcio premium congelados con tecnología de enfriamiento rápido. Dulzor intenso garantizado.",
+        "packaging": [
+          "Bolsas de 400g",
+          "Bolsas de 2.5kg",
+          "Cartones de 10kg (B2B)"
+        ],
+        "sizes": ["Cubos de 10x10 mm", "Mitades", "Rodajas"],
+        "season": "Julio a Septiembre",
+        "benefits": "Excelente fuente de Vitamina A y C."
+      },
+      "pomegranate": {
+        "name": "Granada Congelada",
+        "description": "Arilos de granada egipcia congelados para preservar sus jugos internos. Desgranados mecánicamente.",
+        "packaging": [
+          "Bolsas de 400g",
+          "Bolsas de 2.5kg",
+          "Cartones de 10kg (B2B)"
+        ],
+        "sizes": ["Arilos enteros"],
+        "season": "Septiembre a Noviembre",
+        "benefits": "Apoya la salud del corazón y es rica en antioxidantes."
+      },
+      "apricot": {
+        "name": "Albaricoque Congelado",
+        "description": "Albaricoque egipcio natural congelado en su madurez óptima para un máximo dulzor.",
+        "packaging": [
+          "Bolsas de 400g",
+          "Bolsas de 2.5kg",
+          "Cartones de 10kg (B2B)"
+        ],
+        "sizes": ["Mitades sin hueso"],
+        "season": "Mayo a Junio",
+        "benefits": "Rico en fibra y Vitamina A."
+      },
+      "fig": {
+        "name": "Higo Congelado",
+        "description": "Higos egipcios naturales congelados con estándares de alta calidad, textura suave y gran sabor.",
+        "packaging": [
+          "Bolsas de 400g",
+          "Bolsas de 2.5kg",
+          "Cartones de 10kg (B2B)"
+        ],
+        "sizes": ["Mitades", "Enteros"],
+        "season": "Julio a Septiembre",
+        "benefits": "Promueve la salud digestiva."
+      },
+      "guava": {
+        "name": "Guayaba Congelada",
+        "description": "Guayaba egipcia con un sabor tropical único, sin semillas y lista para uso industrial.",
+        "packaging": ["Pulpa de Guayaba", "Cartones de 10kg"],
+        "sizes": ["Puré", "Mitades sin semillas"],
+        "season": "Agosto a Octubre",
+        "benefits": "Refuerza la inmunidad gracias a su alto contenido de Vitamina C."
+      },
+      "kiwi": {
+        "name": "Kiwi Congelado",
+        "description": "Rodajas de kiwi congeladas ricas en Vitamina C, cuidadosamente cortadas para retener su sabor cítrico.",
+        "packaging": [
+          "Bolsas de 400g",
+          "Bolsas de 2.5kg",
+          "Cartones de 10kg (B2B)"
+        ],
+        "sizes": ["Cubos", "Rodajas"],
+        "season": "Todo el año (Importado y empacado localmente)",
+        "benefits": "Ayuda en la digestión y refuerza la inmunidad."
+      }
+    },
+    "vegetables_items": {
+      "green-beans": {
+        "name": "Judías Verdes Congeladas",
+        "description": "Judías verdes frescas congeladas con tecnología IQF. Mantienen su textura crujiente y color verde brillante.",
+        "packaging": [
+          "Bolsas de 400g",
+          "Bolsas de 2.5kg",
+          "Cartones de 10kg (B2B)"
+        ],
+        "sizes": ["Corte 3-4 cm", "Enteras (por tamaño)"],
+        "season": "Octubre a Junio",
+        "benefits": "Buena fuente de proteína vegetal y fibra."
+      },
+      "peas": {
+        "name": "Guisantes Congelados",
+        "description": "Guisantes verdes congelados con sabor natural fresco. Clasificados mecánicamente para uniformidad de tamaño.",
+        "packaging": [
+          "Bolsas de 400g",
+          "Bolsas de 2.5kg",
+          "Cartones de 10kg (B2B)"
+        ],
+        "sizes": ["Granos de 7-10 mm"],
+        "season": "Noviembre a Marzo",
+        "benefits": "Ricos en Vitaminas K y C."
+      },
+      "broad-beans": {
+        "name": "Habas Congeladas",
+        "description": "Habas egipcias congeladas de alta calidad. Disponibles peladas o con piel.",
+        "packaging": [
+          "Bolsas de 400g",
+          "Bolsas de 2.5kg",
+          "Cartones de 10kg (B2B)"
+        ],
+        "sizes": ["Peladas", "Con piel"],
+        "season": "Enero a Abril",
+        "benefits": "Proporcionan energía y proteínas."
+      },
+      "mixed-vegetables": {
+        "name": "Verduras Mixtas Congeladas",
+        "description": "Una mezcla diversa de verduras frescas congeladas (guisantes, zanahorias, judías, maíz) para una cocción rápida.",
+        "packaging": [
+          "Bolsas de 400g",
+          "Bolsas de 2.5kg",
+          "Cartones de 10kg (B2B)"
+        ],
+        "sizes": ["Mezcla estándar", "Cubos medianos"],
+        "season": "Todo el año",
+        "benefits": "Comida nutricional completa en una sola bolsa."
+      },
+      "broccoli": {
+        "name": "Brócoli Congelado",
+        "description": "Floretes de brócoli congelados ricos en nutrientes. Ligeramente escaldados antes de congelar.",
+        "packaging": [
+          "Bolsas de 400g",
+          "Bolsas de 2.5kg",
+          "Cartones de 10kg (B2B)"
+        ],
+        "sizes": ["Floretes de 20-40 mm", "Floretes de 40-60 mm"],
+        "season": "Diciembre a Abril",
+        "benefits": "Apoya la salud ósea y cardíaca."
+      },
+      "spinach": {
+        "name": "Espinacas Congeladas",
+        "description": "Espinacas egipcias frescas ricas en hierro. Picadas para cocción inmediata.",
+        "packaging": [
+          "Bolsas de 400g",
+          "Bolsas de 2.5kg",
+          "Cartones de 10kg (B2B)"
+        ],
+        "sizes": ["Picado grueso", "Picado fino"],
+        "season": "Noviembre a Abril",
+        "benefits": "Combate la anemia debido a su alto contenido de hierro."
+      },
+      "okra": {
+        "name": "Ocra Congelada",
+        "description": "Ocra egipcia pequeña (Zero) o mediana, conservando su color y forma consistente.",
+        "packaging": [
+          "Bolsas de 400g",
+          "Bolsas de 2.5kg",
+          "Cartones de 10kg (B2B)"
+        ],
+        "sizes": ["Extra (Zero)", "Premium (Mediana)", "Regular"],
+        "season": "Mayo a Septiembre",
+        "benefits": "Beneficiosa para pacientes diabéticos y del colon."
+      },
+      "molokhia": {
+        "name": "Molokhia Congelada",
+        "description": "Molokhia egipcia picada con sabor auténtico y la textura perfecta.",
+        "packaging": ["Bolsas de 400g"],
+        "sizes": ["Picado Fino"],
+        "season": "Mayo a Septiembre",
+        "benefits": "Facilita la digestión y apoya la inmunidad."
+      },
+      "artichoke": {
+        "name": "Alcachofa Congelada",
+        "description": "Corazones de alcachofa frescos congelados, cuidadosamente pelados y listos para cocinar.",
+        "packaging": [
+          "Bolsas de 400g",
+          "Bolsas de 2.5kg",
+          "Cartones de 10kg (B2B)"
+        ],
+        "sizes": ["Fondos", "Cuartos"],
+        "season": "Diciembre a Mayo",
+        "benefits": "Excelente para la salud del hígado y para reducir el colesterol."
+      },
+      "sweet-corn": {
+        "name": "Maíz Dulce Congelado",
+        "description": "Granos de maíz dulce natural congelados, crujientes y perfectos para ensaladas.",
+        "packaging": [
+          "Bolsas de 400g",
+          "Bolsas de 2.5kg",
+          "Cartones de 10kg (B2B)"
+        ],
+        "sizes": ["Granos enteros"],
+        "season": "Julio a Octubre",
+        "benefits": "Rico en fibra y minerales."
+      },
+      "peas-carrots": {
+        "name": "Guisantes y Zanahorias Congelados",
+        "description": "Mezcla equilibrada de guisantes verdes y cubos de zanahoria fresca, perfecta para comidas diarias.",
+        "packaging": [
+          "Bolsas de 400g",
+          "Bolsas de 2.5kg",
+          "Cartones de 10kg (B2B)"
+        ],
+        "sizes": ["Cubos de 10x10 mm (para zanahorias)"],
+        "season": "Noviembre a Abril",
+        "benefits": "Ideal para la visión y la inmunidad."
+      },
+      "cauliflower": {
+        "name": "Coliflor Congelada",
+        "description": "Floretes de coliflor de color blanco brillante congelados profesionalmente para asegurar la calidad.",
+        "packaging": [
+          "Bolsas de 400g",
+          "Bolsas de 2.5kg",
+          "Cartones de 10kg (B2B)"
+        ],
+        "sizes": ["Floretes de 30-50 mm"],
+        "season": "Diciembre a Abril",
+        "benefits": "Rica en antioxidantes."
+      },
+      "vine-leaves": {
+        "name": "Hojas de Vid Congeladas",
+        "description": "Hojas de vid egipcias congeladas en su punto máximo de suavidad, clasificadas para un relleno perfecto.",
+        "packaging": ["Bolsas de 800g", "Cartones de 5kg"],
+        "sizes": ["Hojas medianas regulares"],
+        "season": "Abril a Junio",
+        "benefits": "Favorece la circulación y la salud del corazón."
+      },
+      "taro": {
+        "name": "Taro Congelado",
+        "description": "Cubos de taro frescos congelados, listos para cocinar sin necesidad de pelar.",
+        "packaging": [
+          "Bolsas de 400g",
+          "Bolsas de 2.5kg",
+          "Cartones de 10kg (B2B)"
+        ],
+        "sizes": ["Cubos uniformes"],
+        "season": "Septiembre a Febrero",
+        "benefits": "Cargado de carbohidratos saludables para obtener energía."
+      },
+      "olives": {
+        "name": "Aceitunas Verdes Congeladas/Refrigeradas",
+        "description": "Aceitunas egipcias premium, procesadas para uso alimentario industrial (deshuesadas o en rodajas).",
+        "packaging": [
+          "Barriles de 150kg",
+          "Cubetas de 10kg",
+          "Bolsas al vacío"
+        ],
+        "sizes": ["En rodajas", "Enteras", "Deshuesadas"],
+        "season": "Septiembre a Noviembre",
+        "benefits": "Gran fuente de grasas saludables."
+      },
+      "carrots": {
+        "name": "Zanahorias Congeladas",
+        "description": "Zanahorias de color naranja brillante congeladas después de su limpieza y corte preciso.",
+        "packaging": [
+          "Bolsas de 400g",
+          "Bolsas de 2.5kg",
+          "Cartones de 10kg (B2B)"
+        ],
+        "sizes": ["Cubos", "Rodajas"],
+        "season": "Diciembre a Abril",
+        "benefits": "Esenciales para la salud ocular debido al betacaroteno."
+      }
+    }
+  },
+  "not_found": {
+    "heading": "¡Ups! Página no encontrada",
+    "home": "Volver al Inicio"
+  },
+  "index": {
+    "hero": {
+      "badge": "Bienvenidos a Agro Vit Food",
+      "main_title": "Expertos en Frutas y Verduras Congeladas",
+      "desc_1": "Agro Vit Food es una empresa egipcia especializada en la exportación de las mejores frutas y verduras congeladas utilizando tecnología IQF. Garantizamos la más alta calidad con embalaje profesional para los mercados globales.",
+      "desc_2": "Gracias al rico suelo de Egipto y al agua del Nilo, ofrecemos productos con un sabor natural excepcional que deleita a familias en todo el mundo.",
+      "features": [
+        "Los mejores agricultores egipcios",
+        "Calidad Internacional",
+        "Tecnología IQF Avanzada"
+      ],
+      "cta_discover": "Descubrir Más",
+      "years_exp": "Años de Excelencia"
+    },
+    "values": {
+      "v1": {
+        "title": "Clientes Primero",
+        "desc": "Asociaciones basadas en la confianza y el éxito mutuo"
+      },
+      "v2": {
+        "title": "Alta Calidad",
+        "desc": "Control estricto en cada etapa de producción"
+      },
+      "v3": {
+        "title": "Sostenibilidad",
+        "desc": "Proteger el medio ambiente es una prioridad absoluta"
+      },
+      "v4": {
+        "title": "Excelencia",
+        "desc": "Estándares internacionales en la fabricación"
+      }
+    },
+    "categories": {
+      "subtitle": "La mejor selección de productos congelados",
+      "title": "Frutas y Verduras Congeladas Premium",
+      "fruits": {
+        "title": "Frutas Congeladas",
+        "desc": "Productos de calidad premium"
+      },
+      "veggies": {
+        "title": "Verduras Congeladas",
+        "desc": "Gran variedad para todas las necesidades"
+      },
+      "browse": "Explorar Productos"
+    },
+    "featured": {
+      "subtitle": "Los mejores productos egipcios",
+      "title": "Nuestros Productos Congelados Destacados",
+      "view_all": "Ver Todos los Productos"
+    },
+    "why_us": {
+      "subtitle": "Nuestro Proceso",
+      "title": "¿Por qué Agro Vit Food?",
+      "main_desc": "Proporcionamos a nuestros socios comerciales productos con los más altos estándares de calidad, fabricados con las últimas tecnologías de las tierras agrícolas más ricas de Egipto.",
+      "items": {
+        "i1": {
+          "title": "Siempre Fresco",
+          "desc": "Las mejores cosechas de las principales granjas egipcias"
+        },
+        "i2": {
+          "title": "Calidad Consistente",
+          "desc": "Últimas técnicas de congelación IQF en nuestras líneas"
+        },
+        "i3": {
+          "title": "Embalaje Diverso",
+          "desc": "Varios tamaños y embalajes para todos los mercados"
+        },
+        "i4": {
+          "title": "Entrega Global",
+          "desc": "La cadena de suministro integrada garantiza la mejor llegada"
+        }
+      }
+    },
+    "stats": {
+      "subtitle": "Agro Vit Food en Números",
+      "title": "Preservando el Sabor y la Calidad con Tecnología IQF",
+      "ton": "Tonelada",
+      "storage": "Capacidad de Almacenamiento",
+      "shipment": "Envío",
+      "export": "Exportación Global",
+      "fruit_label": "Frutas",
+      "veggie_label": "Verduras",
+      "frozen": "Congelado"
+    },
+    "certifications": "Certificados de Calidad y Acreditaciones Internacionales",
+    "fda": "Administración de Alimentos y Medicamentos",
+    "gacc": "Aduanas de China",
+    "cta": {
+      "badge": "Garantía de Calidad",
+      "title": "Alta Calidad del Campo al Empaque",
+      "desc": "Cumplimos con los más altos estándares de calidad y seguridad alimentaria en cada etapa de la producción.",
+      "button": "Contáctenos Ahora"
+    },
+    "hero_slider": {
+      "contact_us": "Contáctenos",
+      "slides": [
+        {
+          "subtitle": "Embalaje de marca privada y varios tamaños de paquetes",
+          "title": "Los más altos estándares de calidad y embalaje",
+          "cta": "Descubrir Más"
+        },
+        {
+          "subtitle": "De las tierras más fértiles de Egipto irrigadas por el Nilo",
+          "title": "Frutas y Verduras Congeladas Premium",
+          "cta": "Sobre Nosotros"
+        },
+        {
+          "subtitle": "Sabor natural que cumple con las expectativas del mercado global",
+          "title": "Con las últimas tecnologías de congelación IQF",
+          "cta": "Nuestros Productos"
+        }
+      ]
+    }
+  },
+  "footer": {
+    "about_text": "Agro Vit Food es una empresa egipcia líder que exporta frutas y verduras congeladas mediante tecnología IQF, entregando los mejores productos egipcios a los mercados globales.",
+    "quick_links_title": "Enlaces Rápidos",
+    "links": {
+      "home": "Inicio",
+      "about": "Sobre Nosotros",
+      "gallery": "Galería",
+      "fruits": "Frutas Congeladas",
+      "vegetables": "Verduras Congeladas",
+      "contact": "Contáctenos"
+    },
+    "products_title": "Nuestros Productos",
+    "products_list": {
+      "strawberry": "Fresa Congelada",
+      "mango": "Mango Congelado",
+      "peas": "Guisantes Congelados",
+      "mixed_veggies": "Verduras Mixtas",
+      "broccoli": "Brócoli Congelado",
+      "okra": "Ocra Congelada"
+    },
+    "contact_title": "Contáctenos",
+    "address": "Zona Industrial, Ismailia, Egipto",
+    "rights_reserved": "Todos los derechos reservados."
+  },
+  "form-validation": {
+    "name": "El nombre es obligatorio",
+    "email": "El correo electrónico es obligatorio",
+    "phone": "El teléfono es obligatorio",
+    "subject": "El asunto es obligatorio",
+    "message": "El mensaje es obligatorio"
+  }
+}

@@ -1,0 +1,522 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About Us",
+    "products": "Products",
+    "gallery": "Gallery",
+    "contact": "Contact Us",
+    "fruits": "Frozen Fruits",
+    "vegetables": "Frozen Vegetables"
+  },
+  "contact": {
+    "banner": {
+      "title": "Contact Us",
+      "breadcrumb": "Contact Us"
+    },
+    "about": {
+      "title": "About Agro Vit Food",
+      "description": "Agro Vit Food is a leading Egyptian company specialized in exporting frozen fruits and vegetables using IQF technology. Our products are available under our brand, which has gained an excellent reputation in international markets."
+    },
+    "info": {
+      "title": "Contact Information",
+      "sales": "Sales Department",
+      "email": "Email",
+      "hours": "Working Hours",
+      "workingHours": "Saturday - Thursday: 9 AM - 5 PM"
+    },
+    "address": {
+      "title": "Address",
+      "company": "Agro Vit Food Export",
+      "location": "Industrial Area, Ismailia, Egypt"
+    },
+    "form": {
+      "subtitle": "Get In Touch",
+      "title": "Feel Free To Contact Us Anytime",
+      "description": "Please fill out the form below and we will get back to you as soon as possible.",
+      "name": "Full Name",
+      "email": "Email",
+      "phone": "Phone Number",
+      "subject": "Subject",
+      "message": "Message",
+      "placeholders": {
+        "name": "Enter your name",
+        "email": "Enter your email",
+        "phone": "Enter your phone number",
+        "subject": "Message subject",
+        "message": "Write your message..."
+      },
+      "submit": "Send Message"
+    }
+  },
+  "gallery": {
+    "pageTitle": "Photo Gallery",
+    "breadcrumb": "Gallery",
+    "categories": {
+      "production": "Production",
+      "harvest": "Harvest",
+      "packaging": "Packaging",
+      "facilities": "Facilities"
+    },
+    "images": {
+      "strawberry_sorting": "Strawberry Sorting Process",
+      "our_farms": "Our Farms",
+      "b2b_packaging": "B2B Packaging",
+      "auto_cutting": "Automatic Strawberry Cutting",
+      "cold_storage": "Cold Storage (-18°C)",
+      "iqf_tunnel": "IQF Freezing Tunnel",
+      "quality_check": "Quality Control Check",
+      "harvest_day": "Fresh Harvest Day",
+      "farm_landscape": "Our Fertile Farmlands"
+    }
+  },
+  "about": {
+    "pageTitle": "About Us",
+    "breadcrumb": "About Us",
+    "experience": "Agro Vit Food Export - 8 Years of Excellence",
+    "mainTitle": "Wide range of frozen fruits and vegetables using IQF technology",
+    "description1": "Agro Vit Food is an Egyptian company specialized in exporting various types of frozen fruits and vegetables using IQF (Individually Quick Frozen) technology, ensuring the highest quality standards and versatile packaging options to meet diverse market needs.",
+    "description2": "With over 8 years of experience in both Egyptian and international markets, we have been committed since our inception to international food safety and quality standards, enabling us to build strong and reliable business partnerships with clients worldwide.",
+    "description3": "Thanks to Egypt's ideal climate and fertile soil irrigated by the Nile River, we take pride in offering products with a unique natural flavor and exceptional quality that is second to none.",
+    "stats": {
+      "shipments": "+500 Export Shipments",
+      "service": "24/7 Support",
+      "premium": "Premium IQF Products",
+      "quality": "Internationally Certified"
+    },
+    "brand": {
+      "subtitle": "Our Brand",
+      "title": "From the Finest Egyptian Produce",
+      "p1": "We provide our clients with a wide range of frozen products under our private brand 'Agro Vit Food', which has earned the trust of importers in international markets thanks to its superior quality and reliability.",
+      "p2": "We also offer Private Label packaging services with various container sizes suitable for all wholesale, retail, and industrial sectors (from 400g bags up to 10kg cartons).",
+      "list": [
+        "Flexible packaging to suit all B2B commercial requests",
+        "Harvesting at the beginning of the season for best price and quality",
+        "Mechanical automated cutting for hygiene and size consistency",
+        "Sustainable supply throughout the year"
+      ],
+      "iqf_badge": {
+        "title": "IQF",
+        "subtitle": "Premium Technology"
+      }
+    },
+    "cards": {
+      "mission": {
+        "title": "Mission",
+        "desc": "To provide the highest quality of frozen fruits and vegetables using the latest freezing technologies at competitive prices to our clients in various global markets."
+      },
+      "vision": {
+        "title": "Vision",
+        "desc": "To be a market leader in the export of frozen fruits and vegetables locally and globally through continuous development and investment in personnel and facilities."
+      },
+      "markets": {
+        "title": "Our Markets",
+        "desc": "We export our products to many countries worldwide, including Russia, Poland, and the USA, with constant aspirations to expand into European and Asian markets."
+      },
+      "goal": {
+        "title": "Our Goal",
+        "desc": "Continuous expansion of our product range by adding unique varieties that meet our clients' requirements while ensuring the constant development of quality."
+      }
+    },
+    "production": {
+      "subtitle": "Production Stages",
+      "title": "How We Preserve Natural Taste",
+      "steps": {
+        "farming": {
+          "title": "Farming",
+          "desc": "We select the best varieties and seeds, monitoring crops from start to harvest at peak ripeness, focusing on natural fertilizers."
+        },
+        "sorting": {
+          "title": "Selection & Sorting",
+          "desc": "We carefully supervise the picking process to ensure the most ripe fruits are chosen, followed by washing and sorting to remove impurities."
+        },
+        "cooling": {
+          "title": "Pre-Cooling",
+          "desc": "Products are cooled in preparation for the rapid freezing process, reaching -18°C while removing excess moisture for quality."
+        },
+        "iqf": {
+          "title": "IQF Rapid Freezing",
+          "desc": "We use the latest IQF technologies where products are quickly frozen to the core at -40°C, preserving flavor, texture, and nutrition."
+        },
+        "packaging": {
+          "title": "Packaging & Storage",
+          "desc": "We offer wholesale and retail packaging in various sizes, with secure storage in temperature-controlled warehouses."
+        },
+        "shipping": {
+          "title": "Shipping & Delivery",
+          "desc": "We deliver our products anywhere in the world on time, maintaining the cold chain throughout the shipping journey."
+        }
+      }
+    },
+    "cta": {
+      "title": "Would you like to cooperate with us?",
+      "desc": "Contact us today to learn more about our products and services",
+      "btn": "Contact Us"
+    }
+  },
+  "fruits": {
+    "banner_title": "Frozen Fruits",
+    "banner_breadcrumb": "Frozen Fruits",
+    "subtitle": "Premium Selection of Frozen Fruits",
+    "main_title": "Egyptian Fruits Frozen with IQF Technology",
+    "description": "We have become an essential part of global markets through our distinguished selection of high-quality frozen fruits, offered under our private brand as well as custom packaging upon customer request."
+  },
+  "vegetables": {
+    "banner_title": "Frozen Vegetables",
+    "banner_breadcrumb": "Frozen Vegetables",
+    "subtitle": "Wide Selection of Frozen Vegetables",
+    "main_title": "Egyptian Frozen Vegetables with Highest Quality",
+    "description": "We offer a comprehensive range of Egyptian vegetables frozen using IQF technology, with diverse packaging options to suit all customer needs."
+  },
+  "product_details": {
+    "not_found": "Product Not Found",
+    "back_to_home": "Back to Home",
+    "back_to_list": "Back to Product List",
+    "fruits_label": "Frozen Fruits (IQF)",
+    "veggies_label": "Frozen Vegetables (IQF)",
+    "packaging_title": "Packaging Options (B2B)",
+    "sizes_title": "Sizes & Cutting",
+    "season_title": "Availability Season",
+    "benefits_title": "Benefits & Quality",
+    "request_quote": "Request Wholesale Quote",
+    "private_label_note": "* Wholesale weights and Private Label are available upon importer request."
+  },
+  "products": {
+    "fruits_items": {
+      "strawberry": {
+        "name": "Frozen Strawberry",
+        "description": "Fresh Egyptian strawberries frozen with IQF technology. Ideal for juices, desserts, and jams.",
+        "packaging": ["400g Bags", "2.5kg Bags", "10kg Cartons (B2B)"],
+        "sizes": ["15-25 mm", "25-35 mm", "Uncalibrated"],
+        "season": "December to April",
+        "benefits": "Rich in Vitamin C and antioxidants."
+      },
+      "mango": {
+        "name": "Frozen Mango",
+        "description": "Premium Egyptian mango chunks frozen with rapid cooling technology. Intense sweetness guaranteed.",
+        "packaging": ["400g Bags", "2.5kg Bags", "10kg Cartons (B2B)"],
+        "sizes": ["10x10 mm Cubes", "Halves", "Slices"],
+        "season": "July to September",
+        "benefits": "Excellent source of Vitamin A and C."
+      },
+      "pomegranate": {
+        "name": "Frozen Pomegranate",
+        "description": "Egyptian pomegranate arils frozen to preserve internal juices. Mechanically deseeded.",
+        "packaging": ["400g Bags", "2.5kg Bags", "10kg Cartons (B2B)"],
+        "sizes": ["Whole Arils"],
+        "season": "September to November",
+        "benefits": "Supports heart health and rich in antioxidants."
+      },
+      "apricot": {
+        "name": "Frozen Apricot",
+        "description": "Natural Egyptian apricot frozen at optimal ripeness for maximum sweetness.",
+        "packaging": ["400g Bags", "2.5kg Bags", "10kg Cartons (B2B)"],
+        "sizes": ["Pitted Halves"],
+        "season": "May to June",
+        "benefits": "Rich in fiber and Vitamin A."
+      },
+      "fig": {
+        "name": "Frozen Fig",
+        "description": "Natural Egyptian figs frozen with high-quality standards, smooth texture and great taste.",
+        "packaging": ["400g Bags", "2.5kg Bags", "10kg Cartons (B2B)"],
+        "sizes": ["Halves", "Whole"],
+        "season": "July to September",
+        "benefits": "Promotes digestive health."
+      },
+      "guava": {
+        "name": "Frozen Guava",
+        "description": "Egyptian guava with a unique tropical taste, deseeded and ready for industrial use.",
+        "packaging": ["Guava Pulp", "10kg Cartons"],
+        "sizes": ["Puree", "Deseeded Halves"],
+        "season": "August to October",
+        "benefits": "Boosts immunity due to high Vitamin C content."
+      },
+      "kiwi": {
+        "name": "Frozen Kiwi",
+        "description": "Frozen kiwi slices rich in Vitamin C, carefully cut to retain their tangy flavor.",
+        "packaging": ["400g Bags", "2.5kg Bags", "10kg Cartons (B2B)"],
+        "sizes": ["Cubes", "Slices"],
+        "season": "Year-round (Imported & locally packed)",
+        "benefits": "Helps in digestion and boosts immunity."
+      }
+    },
+    "vegetables_items": {
+      "green-beans": {
+        "name": "Frozen Green Beans",
+        "description": "Fresh green beans frozen with IQF technology. Maintains crunch and bright green color.",
+        "packaging": ["400g Bags", "2.5kg Bags", "10kg Cartons (B2B)"],
+        "sizes": ["Cut 3-4 cm", "Whole (by size)"],
+        "season": "October to June",
+        "benefits": "Good source of plant protein and fiber."
+      },
+      "peas": {
+        "name": "Frozen Peas",
+        "description": "Frozen green peas with fresh natural flavor. Mechanically sorted for size uniformity.",
+        "packaging": ["400g Bags", "2.5kg Bags", "10kg Cartons (B2B)"],
+        "sizes": ["7-10 mm grains"],
+        "season": "November to March",
+        "benefits": "Rich in Vitamins K and C."
+      },
+      "broad-beans": {
+        "name": "Frozen Broad Beans",
+        "description": "High-quality Egyptian frozen broad beans. Available peeled or unpeeled.",
+        "packaging": ["400g Bags", "2.5kg Bags", "10kg Cartons (B2B)"],
+        "sizes": ["Peeled", "Unpeeled"],
+        "season": "January to April",
+        "benefits": "Provides energy and protein."
+      },
+      "mixed-vegetables": {
+        "name": "Frozen Mixed Vegetables",
+        "description": "A diverse mix of fresh frozen vegetables (peas, carrots, beans, corn) for quick cooking.",
+        "packaging": ["400g Bags", "2.5kg Bags", "10kg Cartons (B2B)"],
+        "sizes": ["Standard mix", "Medium cubes"],
+        "season": "Year-round",
+        "benefits": "Complete nutritional meal in one bag."
+      },
+      "broccoli": {
+        "name": "Frozen Broccoli",
+        "description": "Frozen broccoli florets rich in nutrients. Lightly blanched before freezing.",
+        "packaging": ["400g Bags", "2.5kg Bags", "10kg Cartons (B2B)"],
+        "sizes": ["20-40 mm florets", "40-60 mm florets"],
+        "season": "December to April",
+        "benefits": "Supports bone and heart health."
+      },
+      "spinach": {
+        "name": "Frozen Spinach",
+        "description": "Fresh Egyptian spinach rich in iron. Minced for immediate cooking.",
+        "packaging": ["400g Bags", "2.5kg Bags", "10kg Cartons (B2B)"],
+        "sizes": ["Coarse minced", "Fine minced"],
+        "season": "November to April",
+        "benefits": "Fights anemia due to high iron content."
+      },
+      "okra": {
+        "name": "Frozen Okra",
+        "description": "Egyptian small (Zero) or medium okra, retaining its color and consistent shape.",
+        "packaging": ["400g Bags", "2.5kg Bags", "10kg Cartons (B2B)"],
+        "sizes": ["Extra (Zero)", "Premium (Medium)", "Regular"],
+        "season": "May to September",
+        "benefits": "Beneficial for diabetic and colon patients."
+      },
+      "molokhia": {
+        "name": "Frozen Molokhia",
+        "description": "Minced Egyptian Molokhia with authentic flavor and the perfect texture.",
+        "packaging": ["400g Bags"],
+        "sizes": ["Fine Minced"],
+        "season": "May to September",
+        "benefits": "Facilitates digestion and supports immunity."
+      },
+      "artichoke": {
+        "name": "Frozen Artichoke",
+        "description": "Fresh frozen artichoke hearts, carefully peeled and ready for cooking.",
+        "packaging": ["400g Bags", "2.5kg Bags", "10kg Cartons (B2B)"],
+        "sizes": ["Bottoms", "Quarters"],
+        "season": "December to May",
+        "benefits": "Excellent for liver health and lowering cholesterol."
+      },
+      "sweet-corn": {
+        "name": "Frozen Sweet Corn",
+        "description": "Natural frozen sweet corn kernels, crunchy and perfect for salads.",
+        "packaging": ["400g Bags", "2.5kg Bags", "10kg Cartons (B2B)"],
+        "sizes": ["Whole grains"],
+        "season": "July to October",
+        "benefits": "Rich in fiber and minerals."
+      },
+      "peas-carrots": {
+        "name": "Frozen Peas & Carrots",
+        "description": "Balanced mix of green peas and fresh carrot cubes, perfect for daily meals.",
+        "packaging": ["400g Bags", "2.5kg Bags", "10kg Cartons (B2B)"],
+        "sizes": ["10x10 mm cubes (for carrots)"],
+        "season": "November to April",
+        "benefits": "Ideal for vision and immunity."
+      },
+      "cauliflower": {
+        "name": "Frozen Cauliflower",
+        "description": "Bright white cauliflower florets professionally frozen to ensure quality.",
+        "packaging": ["400g Bags", "2.5kg Bags", "10kg Cartons (B2B)"],
+        "sizes": ["30-50 mm florets"],
+        "season": "December to April",
+        "benefits": "Rich in antioxidants."
+      },
+      "vine-leaves": {
+        "name": "Frozen Vine Leaves",
+        "description": "Egyptian vine leaves frozen at peak softness, sorted for perfect stuffing.",
+        "packaging": ["800g Bags", "5kg Cartons"],
+        "sizes": ["Regular medium leaves"],
+        "season": "April to June",
+        "benefits": "Supports circulation and heart health."
+      },
+      "taro": {
+        "name": "Frozen Taro",
+        "description": "Fresh frozen taro cubes, ready for cooking with no peeling effort required.",
+        "packaging": ["400g Bags", "2.5kg Bags", "10kg Cartons (B2B)"],
+        "sizes": ["Uniform cubes"],
+        "season": "September to February",
+        "benefits": "Loaded with healthy carbohydrates for energy."
+      },
+      "olives": {
+        "name": "Frozen/Chilled Green Olives",
+        "description": "Premium Egyptian olives, processed for industrial food use (pitted or sliced).",
+        "packaging": ["150kg Barrels", "10kg Buckets", "Vacuum bags"],
+        "sizes": ["Sliced", "Whole", "Pitted"],
+        "season": "September to November",
+        "benefits": "Great source of healthy fats."
+      },
+      "carrots": {
+        "name": "Frozen Carrots",
+        "description": "Bright orange carrots frozen after cleaning and precise cutting.",
+        "packaging": ["400g Bags", "2.5kg Bags", "10kg Cartons (B2B)"],
+        "sizes": ["Cubes", "Slices"],
+        "season": "December to April",
+        "benefits": "Essential for eye health due to beta-carotene."
+      }
+    }
+  },
+  "not_found": {
+    "heading": "Oops! Page not found",
+    "home": "Return to Home"
+  },
+  "index": {
+    "hero": {
+      "badge": "Welcome to Agro Vit Food",
+      "main_title": "Specialists in Frozen Fruits and Vegetables Production",
+      "desc_1": "Agro Vit Food is an Egyptian company specializing in exporting the finest frozen fruits and vegetables using IQF technology. We ensure the highest quality with professional packaging for global markets.",
+      "desc_2": "Thanks to Egypt's rich soil and Nile water, we provide products with exceptional natural flavor that delights families worldwide.",
+      "features": [
+        "Best Egyptian Farmers",
+        "International Quality",
+        "Advanced IQF Tech"
+      ],
+      "cta_discover": "Discover More",
+      "years_exp": "Years of Excellence"
+    },
+    "values": {
+      "v1": {
+        "title": "Clients First",
+        "desc": "Partnerships based on trust and mutual success"
+      },
+      "v2": {
+        "title": "High Quality",
+        "desc": "Strict control at every production stage"
+      },
+      "v3": {
+        "title": "Sustainability",
+        "desc": "Protecting the environment is a top priority"
+      },
+      "v4": {
+        "title": "Excellence",
+        "desc": "International standards in manufacturing"
+      }
+    },
+    "categories": {
+      "subtitle": "Best Selection of Frozen Products",
+      "title": "Premium Frozen Fruits & Vegetables",
+      "fruits": {
+        "title": "Frozen Fruits",
+        "desc": "Premium quality products"
+      },
+      "veggies": {
+        "title": "Frozen Vegetables",
+        "desc": "Wide variety for all needs"
+      },
+      "browse": "Browse Products"
+    },
+    "featured": {
+      "subtitle": "Finest Egyptian Products",
+      "title": "Our Featured Frozen Products",
+      "view_all": "View All Products"
+    },
+    "why_us": {
+      "subtitle": "Our Process",
+      "title": "Why Agro Vit Food ?",
+      "main_desc": "We provide our trade partners with products of the highest quality standards, manufactured with the latest technologies from Egypt's richest farmlands.",
+      "items": {
+        "i1": {
+          "title": "Always Fresh",
+          "desc": "Best crops from top Egyptian farms"
+        },
+        "i2": {
+          "title": "Consistent Quality",
+          "desc": "Latest IQF freezing techniques in our lines"
+        },
+        "i3": {
+          "title": "Diverse Packaging",
+          "desc": "Various sizes and packaging for all markets"
+        },
+        "i4": {
+          "title": "Global Delivery",
+          "desc": "Integrated supply chain ensures best arrival"
+        }
+      }
+    },
+    "stats": {
+      "subtitle": "Agro Vit Food in Numbers",
+      "title": "Preserving Flavor & Quality with IQF Technology",
+      "ton": "Ton",
+      "storage": "Storage Capacity",
+      "shipment": "Shipment",
+      "export": "Global Export",
+      "fruit_label": "Fruits",
+      "veggie_label": "Vegetables",
+      "frozen": "Frozen"
+    },
+    "certifications": "Quality Certificates & International Accreditations",
+    "fda": "Food and Drug Administration",
+    "gacc": "China Customs (GACC)",
+    "cta": {
+      "badge": "Quality Assurance",
+      "title": "Rigorous Inspection from Harvest to Packaging",
+      "desc": "We adhere to the highest quality and food safety standards at every stage of production.",
+      "button": "Contact Us Now"
+    },
+    "hero_slider": {
+      "contact_us": "Contact Us",
+      "slides": [
+        {
+          "subtitle": "Private label packaging and various pack sizes",
+          "title": "Highest Standards of Quality & Packaging",
+          "cta": "Discover More"
+        },
+        {
+          "subtitle": "From Egypt's most fertile lands irrigated by the Nile",
+          "title": "Premium Frozen Fruits & Vegetables",
+          "cta": "Learn About Us"
+        },
+        {
+          "subtitle": "Natural flavor meeting global market expectations",
+          "title": "With Latest IQF Freezing Technologies",
+          "cta": "Our Products"
+        }
+      ]
+    }
+  },
+  "footer": {
+    "about_text": "Agro Vit Food is a leading Egyptian company exporting frozen fruits and vegetables using IQF technology, delivering the finest Egyptian produce to global markets.",
+    "quick_links_title": "Quick Links",
+    "links": {
+      "home": "Home",
+      "about": "About Us",
+      "gallery": "Gallery",
+      "fruits": "Frozen Fruits",
+      "vegetables": "Frozen Vegetables",
+      "contact": "Contact Us"
+    },
+    "products_title": "Our Products",
+    "products_list": {
+      "strawberry": "Frozen Strawberry",
+      "mango": "Frozen Mango",
+      "peas": "Frozen Peas",
+      "mixed_veggies": "Mixed Vegetables",
+      "broccoli": "Frozen Broccoli",
+      "okra": "Frozen Okra"
+    },
+    "contact_title": "Contact Us",
+    "address": "Industrial Zone, Ismailia, Egypt",
+    "rights_reserved": "All rights reserved."
+  },
+  "form-validation": {
+    "name": "Name is required",
+    "email": "Email is required",
+    "phone": "Phone is required",
+    "subject": "Subject is required",
+    "message": "Message is required"
+  }
+}

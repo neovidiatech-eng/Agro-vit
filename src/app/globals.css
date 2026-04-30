@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700;800&display=swap');
+
+@import "tailwindcss";
+@config "../../tailwind.config.ts";
+
+@layer base {
+  :root {
+    --background: 120 20% 98%;
+    --foreground: 150 30% 10%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 150 30% 10%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 150 30% 10%;
+
+    --primary: 145 63% 28%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 80 45% 55%;
+    --secondary-foreground: 0 0% 100%;
+
+    --muted: 120 15% 95%;
+    --muted-foreground: 150 10% 45%;
+
+    --accent: 40 85% 55%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 120 10% 88%;
+    --input: 120 10% 88%;
+    --ring: 145 63% 28%;
+
+    --radius: 0.75rem;
+
+    --hero-overlay: linear-gradient(135deg, hsla(150, 40%, 8%, 0.75), hsla(145, 63%, 18%, 0.55));
+    --section-green: 145 50% 22%;
+    --section-light: 120 20% 96%;
+    --gold: 40 85% 55%;
+    --gold-light: 40 85% 65%;
+  }
+
+  .dark {
+    --background: 150 30% 5%;
+    --foreground: 120 20% 95%;
+    --card: 150 25% 8%;
+    --card-foreground: 120 20% 95%;
+    --popover: 150 25% 8%;
+    --popover-foreground: 120 20% 95%;
+    --primary: 145 63% 42%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 80 45% 40%;
+    --secondary-foreground: 0 0% 100%;
+    --muted: 150 15% 15%;
+    --muted-foreground: 120 10% 65%;
+    --accent: 40 85% 55%;
+    --accent-foreground: 0 0% 100%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 150 15% 18%;
+    --input: 150 15% 18%;
+    --ring: 145 63% 42%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  /* Global font-size adjustment for better readability across all languages */
+  html {
+    font-size: 14px;
+  }
+
+  body {
+    @apply bg-background text-foreground
+  }
+
+  /* h1, h2, h3 {
+    line-height: 1.3 !important;
+  }
+   */
+  html.lang-es h1, html.lang-es h2, html.lang-es h3 {
+    text-wrap: balance;
+  }
+}
+
+@layer utilities {
+  .hero-gradient {
+    background: var(--hero-overlay);
+  }
+
+  .section-green {
+    background-color: hsl(var(--section-green));
+  }
+
+  .section-light {
+    background-color: hsl(var(--section-light));
+  }
+
+  .text-gold {
+    color: hsl(var(--gold));
+  }
+
+  .bg-gold {
+    background-color: hsl(var(--gold));
+  }
+
+  .gradient-green {
+    background: linear-gradient(135deg, hsl(145, 63%, 22%), hsl(145, 63%, 35%));
+  }
+
+  .gradient-gold {
+    background: linear-gradient(135deg, hsl(40, 85%, 50%), hsl(40, 85%, 60%));
+  }
+
+  .glass {
+    background: hsla(0, 0%, 100%, 0.08);
+    backdrop-filter: blur(16px);
+    border: 1px solid hsla(0, 0%, 100%, 0.15);
+  }
+
+  .glass-dark {
+    background: hsla(150, 30%, 5%, 0.4);
+    backdrop-filter: blur(20px);
+    border: 1px solid hsla(0, 0%, 100%, 0.1);
+  }
+
+  .text-shadow-hero {
+    text-shadow: 0 2px 20px hsla(0, 0%, 0%, 0.4);
+  }
+
+  .card-lift {
+    @apply transition-all duration-500;
+  }
+
+  .card-lift:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 20px 40px -12px hsla(145, 63%, 28%, 0.2);
+  }
+
+  .gradient-text {
+    background: linear-gradient(135deg, hsl(var(--gold)), hsl(var(--gold-light)));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+}

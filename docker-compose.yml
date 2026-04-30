@@ -1,0 +1,15 @@
+version: "3.8"
+
+services:
+  agro_web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: agro_plus_web
+    restart: unless-stopped
+    ports:
+      # Map 127.0.0.1 to avoid exposing the port directly to the internet (Nginx will proxy it)
+      - "127.0.0.1:${APP_PORT:-3000}:3000"
+    environment:
+      - NODE_ENV=production
+      - NEXT_TELEMETRY_DISABLED=1
