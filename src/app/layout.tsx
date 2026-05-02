@@ -33,9 +33,13 @@ export const metadata: Metadata = {
   description: "Fresh fruits and vegetables premium exporters from Egypt.",
   manifest: "/manifest.json",
   icons: {
-    icon: "/favicon.ico?v=1",
-    shortcut: "/favicon.ico?v=1",
-    apple: "/logo.png?v=1",
+    icon: [
+      { url: "/favicon-32x32.png", sizes: "32x32", type: "image/png" },
+      { url: "/favicon-16x16.png", sizes: "16x16", type: "image/png" },
+      { url: "/favicon.ico" },
+    ],
+    shortcut: "/favicon.ico",
+    apple: "/apple-touch-icon.png",
   },
   openGraph: {
     title: "Agro Vit Food",
