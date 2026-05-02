@@ -25,12 +25,18 @@ const almarai = Almarai({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://agro-vit-food.com"), // Replace with your actual domain
   title: {
     default: "Agro Vit Food | Premium Fruits & Vegetables",
     template: "%s | Agro Vit Food",
   },
   description: "Fresh fruits and vegetables premium exporters from Egypt.",
   manifest: "/manifest.json",
+  icons: {
+    icon: "/favicon.ico?v=1",
+    shortcut: "/favicon.ico?v=1",
+    apple: "/logo.png?v=1",
+  },
   openGraph: {
     title: "Agro Vit Food",
     description: "Fresh fruits and vegetables premium exporters from Egypt.",
