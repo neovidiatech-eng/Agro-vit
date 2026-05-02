@@ -9,7 +9,6 @@ import {
   Twitter,
   Linkedin,
 } from "lucide-react";
-import logo from "@/assets/logoVit2.jpeg";
 import { useTranslation } from "react-i18next";
 
 const Footer = () => {
@@ -23,7 +22,7 @@ const Footer = () => {
           <div className={isRtl ? "text-right" : "text-left"}>
             <div className="bg-white p-4 rounded-xl inline-block mb-5 shadow-lg">
               <img
-                src={typeof logo === "string" ? logo : logo.src}
+                src="/assets/logoVit2.jpeg"
                 alt="Agro Vit Food"
                 className="h-14 max-w-[150px] object-contain"
               />

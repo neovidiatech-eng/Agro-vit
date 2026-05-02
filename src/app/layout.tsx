@@ -25,8 +25,32 @@ const almarai = Almarai({
 });
 
 export const metadata: Metadata = {
-  title: "Agro Vit Food",
-  description: "Fresh fruits and vegetables",
+  title: {
+    default: "Agro Vit Food | Premium Fruits & Vegetables",
+    template: "%s | Agro Vit Food",
+  },
+  description: "Fresh fruits and vegetables premium exporters from Egypt.",
+  manifest: "/manifest.json",
+  icons: {
+    icon: "/logo.png",
+    shortcut: "/logo.png",
+    apple: "/logo.png",
+  },
+  openGraph: {
+    title: "Agro Vit Food",
+    description: "Fresh fruits and vegetables premium exporters from Egypt.",
+    url: "https://agro-vit-food.com",
+    siteName: "Agro Vit Food",
+    images: [
+      {
+        url: "/assets/logo.png",
+        width: 800,
+        height: 600,
+      },
+    ],
+    locale: "en_US",
+    type: "website",
+  },
 };
 
 export default function RootLayout({

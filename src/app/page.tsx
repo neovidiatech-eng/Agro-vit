@@ -18,7 +18,6 @@ import HeroSlider from "@/components/HeroSlider";
 import SectionTitle from "@/components/SectionTitle";
 import ProductCard from "@/components/ProductCard";
 import { fruits, vegetables } from "@/data/products";
-import heroMixed from "@/assets/hero-mixed.jpg";
 import { useTranslation } from "react-i18next";
 
 // Note: Video assets might need proper loading in Next.js
@@ -131,7 +130,7 @@ const Index = () => {
             >
               <div className="relative z-10">
                 <img
-                  src={typeof heroMixed === 'string' ? heroMixed : heroMixed.src}
+                  src="/assets/hero-mixed.jpg"
                   alt={t("index.hero.main_title")}
                   className="rounded-3xl shadow-2xl w-full"
                 />{" "}

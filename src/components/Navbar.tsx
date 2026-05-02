@@ -14,7 +14,6 @@ import {
   Linkedin,
   Globe,
 } from "lucide-react";
-import logo from "@/assets/logoVit2.jpeg";
 import { useTranslation } from "react-i18next";
 
 const Navbar = () => {
@@ -91,7 +90,7 @@ const Navbar = () => {
         <div className="container flex items-center justify-between py-3">
           <Link href="/" className="flex-shrink-0">
             <img
-              src={typeof logo === "string" ? logo : logo.src}
+              src="/assets/logoVit2.jpeg"
               alt="Agro Vit Food"
               className="h-16 w-auto rounded-sm"
             />
