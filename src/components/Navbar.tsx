@@ -54,7 +54,7 @@ const Navbar = () => {
               <span dir="ltr">+20 1010122421</span>
             </a>
             <a
-              href="sales@agro-vit-food.com"
+              href="mailto:http://sales.agro-plus.net/"
               className="hidden sm:flex items-center gap-1 hover:text-gold transition-colors"
             >
               <Mail size={14} />

@@ -86,8 +86,8 @@ const Contact = () => {
                   {
                     icon: Mail,
                     label: t("contact.info.email"),
-                    value: "info@agroplus-eg.com",
-                    href: "mailto:info@agroplus-eg.com",
+                    value: "sales@agro-vit-food.com",
+                    href: "mailto:http://sales.agro-plus.net/",
                   },
                   {
                     icon: Clock,

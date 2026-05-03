@@ -154,7 +154,7 @@ const Footer = () => {
                 <span dir="ltr">+20 1010122421</span>
               </a>
               <a
-                href="mailto:info@agroplus-eg.com"
+                href="mailto:http://sales.agro-plus.net/"
                 className="flex items-center gap-2 text-primary-foreground/80 hover:text-gold transition-colors text-sm"
               >
                 <Mail size={16} />
