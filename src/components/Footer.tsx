@@ -154,7 +154,7 @@ const Footer = () => {
                 <span dir="ltr">+20 1010122421</span>
               </a>
               <a
-                href="mailto:http://sales.agro-plus.net/"
+                href="mailto:sales@agro-vit-food.com"
                 className="flex items-center gap-2 text-primary-foreground/80 hover:text-gold transition-colors text-sm"
               >
                 <Mail size={16} />
@@ -170,7 +170,7 @@ const Footer = () => {
       </div>
       <div className="border-t border-primary-foreground/20">
         <div className="container py-4 text-center text-primary-foreground/60 text-sm">
-          © {new Date().getFullYear()} Agro Plus Premium Exporters.{" "}
+          © {new Date().getFullYear()} Agro Vit Food Premium Exporters.{" "}
           {t("footer.rights_reserved")}
         </div>
       </div>
