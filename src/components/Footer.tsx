@@ -145,13 +145,13 @@ const Footer = () => {
             </h3>
             <div className="flex flex-col gap-3">
               <a
-                href="https://wa.me/201010122421"
+                href="https://wa.me/201019825773"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-primary-foreground/80 hover:text-gold transition-colors text-sm"
               >
                 <Phone size={16} className={isRtl ? "rotate-[270deg]" : ""} />
-                <span dir="ltr">+20 1010122421</span>
+                <span dir="ltr">+20 101 982 5773</span>
               </a>
               <a
                 href="mailto:sales@agro-vit-food.com"

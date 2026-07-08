@@ -80,8 +80,8 @@ const Contact = () => {
                   {
                     icon: Phone,
                     label: t("contact.info.sales"),
-                    value: "+20 1010122421",
-                    href: "https://wa.me/201010122421",
+                    value: "+20 101 982 5773",
+                    href: "https://wa.me/201019825773",
                   },
                   {
                     icon: Mail,

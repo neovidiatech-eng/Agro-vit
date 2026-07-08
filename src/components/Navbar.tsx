@@ -45,13 +45,13 @@ const Navbar = () => {
         <div className="container flex items-center justify-between">
           <div className="flex items-center gap-4">
             <a
-              href="https://wa.me/201010122421"
+              href="https://wa.me/201019825773"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-1 hover:text-gold transition-colors"
             >
               <Phone size={14} />
-              <span dir="ltr">+20 1010122421</span>
+              <span dir="ltr">+20 101 982 5773</span>
             </a>
             <a
               href="mailto:sales@agro-vit-food.com"
